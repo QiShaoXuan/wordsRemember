@@ -1,0 +1,592 @@
+[
+  {
+    "word": "resemble",
+    "translate": "v.像,.与...相似",
+    "synonym": "lik,ook,like,be simila to"
+  },
+  {
+    "word": "recognize",
+    "translate": "v.认出,识别:承 认",
+    "synonym": "perceive,acknowlede,realize,appreciate, admit ,identify, comprehend, understand, know"
+  },
+  {
+    "word": "adjust",
+    "translate": "v.调整,使适合",
+    "synonym": "change, modify, shift, alter"
+  },
+  { "word": "approach", "translate": "n.方法", "synonym": "method, way" },
+  {
+    "word": "fundamental",
+    "translate": "adj. 基本的,基础 的",
+    "synonym": "rudimentary, preliminary, basic"
+  },
+  { "word": "rely on", "translate": "依靠,依赖", "synonym": "depend on" },
+  {
+    "word": "domestic",
+    "translate": "[ adj.家庭的;国内 的",
+    "synonym": "home, local, national"
+  },
+  {
+    "word": "measure",
+    "translate": "v.测量",
+    "synonym": "calculate, assess, evaluate"
+  },
+  {
+    "word": "trait",
+    "translate": "n.特性,特征",
+    "synonym": "characterstic, feature, property"
+  },
+  { "word": "coin", "translate": "v.创造", "synonym": "first used, invent" },
+  {
+    "word": "artificial",
+    "translate": "adj人造的,仿造 的",
+    "synonym": "synthetic, man-made"
+  },
+  {
+    "word": "prompt",
+    "translate": "v.促进,激起",
+    "synonym": "initiate, immediately"
+  },
+  {
+    "word": "exchange",
+    "translate": "v.交换",
+    "synonym": "share, apply A to B"
+  },
+  {
+    "word": "underlie",
+    "translate": "v.成...基础",
+    "synonym": "based on, ground, root"
+  },
+  {
+    "word": "ignore",
+    "translate": " v.忽视,不顾",
+    "synonym": "neglect, overlook, underestimate"
+  },
+  {
+    "word": "fertiliser",
+    "translate": "n.化肥,肥料",
+    "synonym": "chemical, toxic, unnatural"
+  },
+  {
+    "word": "that*",
+    "translate": "pron.那;那个",
+    "synonym": "this, it, they, those, these, such *指代是雅思阅读的重要考点"
+  },
+  {
+    "word": "and*",
+    "translate": "conj.和,而且",
+    "synonym": "or, as well as, bth.and, not only..hbtt also... other than, in addition, besides, on the one hand..on the other hand... neite .n.. *并列结构是)雅思阅读的重要考点"
+  },
+  {
+    "word": "rather than*",
+    "translate": "而非,不是",
+    "synonym": "but, yet, however, whereas, nonetheless, nevertheless, although, notwithstanding though, instead *转折结构是雅思阅读的重要考点"
+  },
+  {
+    "word": "thanks to*",
+    "translate": "由于,幸亏",
+    "synonym": "stem from,derive, owing to,due to, according to, because of, on account of, as a result of, leading to, because, since, for, in that, as, therefore, hence *因果关系是雅思阅读重要考点"
+  },
+  {
+    "word": "diversity",
+    "translate": "n.多样性,差异",
+    "synonym": "variety, difference"
+  },
+  {
+    "word": "detect",
+    "translate": "v.查明,发现",
+    "synonym": "find, look for, seek, search"
+  },
+  {
+    "word": "isolate",
+    "translate": "v.使隔离,使孤立",
+    "synonym": "inaccessible"
+  },
+  { "word": "avoid", "translate": "v.避免", "synonym": "escape, evitable" },
+  { "word": "budget", "translate": "n.预算", "synonym": "fund, financial" },
+  { "word": "adapt to", "translate": "使适应", "synonym": "fit, suit" },
+  {
+    "word": "alternative",
+    "translate": "adj.供替代的,供 选择的 n.替代品",
+    "synonym": "substitute"
+  },
+  {
+    "word": "compensate",
+    "translate": "n.补偿,赔偿",
+    "synonym": "make up, offset"
+  },
+  { "word": "accumulate", "translate": "v.积累,积聚", "synonym": "gather" },
+  { "word": "addictive", "translate": "adj.上瘾的", "synonym": "habit" },
+  { "word": "adversity", "translate": "n.逆境,不幸", "synonym": "trouble" },
+  { "word": "aggression", "translate": "n.侵犯,侵害", "synonym": "attack" },
+  {
+    "word": "agreeable",
+    "translate": "adj.令人愉快的;合 适的;和蔼可亲的",
+    "synonym": "pleasant"
+  },
+  { "word": "aid", "translate": "n.援助,帮助", "synonym": "help" },
+  {
+    "word": "allergic",
+    "translate": "ad].过敏的;对... 极讨厌的",
+    "synonym": "irritate"
+  },
+  { "word": "altitude", "translate": "n.高度,海拔", "synonym": "height" },
+  { "word": "application", "translate": "n.应用", "synonym": "utilization" },
+  { "word": "approve", "translate": "v.批准", "synonym": "agree" },
+  { "word": "array", "translate": "n.排列,大批", "synonym": "order" },
+  { "word": "assign", "translate": "v.分配,指派", "synonym": "allocate" },
+  {
+    "word": "association",
+    "translate": "n.协会,联盟;联系",
+    "synonym": "union"
+  },
+  { "word": "attitude", "translate": "n.看法,态度", "synonym": "opinion" },
+  { "word": "authority", "translate": "n.当局,权威", "synonym": "government" },
+  {
+    "word": "be consistent with",
+    "translate": ".与...一-致",
+    "synonym": "compatible"
+  },
+  { "word": "bear", "translate": "v.承担;忍受", "synonym": "tolerate" },
+  { "word": "blight", "translate": "v损害;枯萎", "synonym": "destroy" },
+  { "word": "boundary", "translate": "n.边界;底线", "synonym": "barrier" },
+  { "word": "bungle", "translate": "v搞糟,拙劣地工作", "synonym": "mishandle" },
+  { "word": "burden", "translate": "n.负担", "synonym": "load" },
+  { "word": "calamity", "translate": "n.灾难", "synonym": "disaster" },
+  { "word": "capacity", "translate": "n.容量", "synonym": "volume" },
+  {
+    "word": "catastrophic",
+    "translate": "odj.灾难的",
+    "synonym": "disastrous"
+  },
+  { "word": "cater", "translate": "v.迎合;满足需求", "synonym": "serve" },
+  { "word": "certify", "translate": "v.证明,保证", "synonym": "verify" },
+  { "word": "civic", "translate": "adj.市民的", "synonym": "municipal" },
+  { "word": "comment", "translate": "n.评论;意见v.评论", "synonym": "remark" },
+  { "word": "devastate", "translate": "v.毁坏,毁灭", "synonym": "wreck" },
+  { "word": "disclose", "translate": "v.公开;揭露", "synonym": "expose" },
+  { "word": "disparate", "translate": "adj.不同的", "synonym": "different" },
+  { "word": "display", "translate": "n.显示", "synonym": "show" },
+  { "word": "disrupt", "translate": "v破坏", "synonym": "destroy" },
+  { "word": "distract", "translate": "v.转移,分心", "synonym": "divert" },
+  { "word": "distribute", "translate": "v.分配,分发", "synonym": "spread" },
+  { "word": "documentation", "translate": "n.文件;文献", "synonym": "record" },
+  { "word": "domain", "translate": "n.领域", "synonym": "field" },
+  {
+    "word": "dominant",
+    "translate": "adj.占优势的,占支 配地位的",
+    "synonym": "overbearing"
+  },
+  {
+    "word": "dramatic",
+    "translate": "adj.戏剧化的,激动 人心的,引人注意的",
+    "synonym": "striking"
+  },
+  { "word": "drought", "translate": "n.干旱", "synonym": "dry" },
+  { "word": "durable", "translate": "ad.持久的", "synonym": "lasting" },
+  {
+    "word": "eco-friendly",
+    "translate": "adj.生态有好的, 环保的",
+    "synonym": "environmentally-friendly"
+  },
+  {
+    "word": "elaborate",
+    "translate": "v.详细阐述,详细叙 述",
+    "synonym": "illustrate"
+  },
+  { "word": "elderly", "translate": "ad.高龄的", "synonym": "aged" },
+  { "word": "eliminate", "translate": "v.消除,排除", "synonym": "dispose" },
+  {
+    "word": "elusive",
+    "translate": "adj.难懂的,难捉摸 的;行踪隐秘的",
+    "synonym": "hard"
+  },
+  {
+    "word": "encyclopaedia",
+    "translate": "n.百科全书",
+    "synonym": "entire range of knowledge"
+  },
+  { "word": "entrepreneur", "translate": "n.企业家", "synonym": "boss" },
+  { "word": "equator", "translate": "n.赤道", "synonym": "geography" },
+  {
+    "word": "rratically",
+    "translate": "adv.不定的,无视规 律地",
+    "synonym": "unpredictably"
+  },
+  {
+    "word": "established",
+    "translate": "adj.确定的;已制定 的,已建立的",
+    "synonym": "built"
+  },
+  { "word": "estate", "translate": "n.房地产", "synonym": "property" },
+  { "word": "ethical", "translate": "adj,道德的", "synonym": "moral" },
+  { "word": "eventually", "translate": "adv.最后,终于", "synonym": "finally" },
+  { "word": "evidence", "translate": "n.迹象;证据", "synonym": "proof" },
+  {
+    "word": "evolve",
+    "translate": "v进化,发展;逐渐形 成",
+    "synonym": "develop"
+  },
+  {
+    "word": "exhausted",
+    "translate": "ad.疲惫的,耗尽的",
+    "synonym": "fatigue"
+  },
+  { "word": "experiment", "translate": "n.试验,试验", "synonym": "test" },
+  { "word": "component", "translate": "n.成分,要素", "synonym": "proportion" },
+  { "word": "military", "translate": "adj.军事的", "synonym": "weapon, army" },
+  { "word": "criteria", "translate": "n.标准", "synonym": "standard" },
+  {
+    "word": "curriculum",
+    "translate": "n.课程",
+    "synonym": "Syllabus, course of study"
+  },
+  {
+    "word": "feasible",
+    "translate": "d,可行的",
+    "synonym": "realistic, viable"
+  },
+  {
+    "word": "constrain",
+    "translate": "v.束缚,限制",
+    "synonym": "stop, control"
+  },
+  {
+    "word": "deficiency",
+    "translate": "n.缺陷,缺点",
+    "synonym": "shortage, defect, weakness"
+  },
+  { "word": "supplement", "translate": "v.补充", "synonym": "provision" },
+  {
+    "word": "distinguish",
+    "translate": "v.区别,辨别",
+    "synonym": "separate, dfferentate"
+  },
+  {
+    "word": "analyze",
+    "translate": "v.分析,解释",
+    "synonym": "examine, diagnose"
+  },
+  {
+    "word": "emphasize",
+    "translate": "v强调,着重",
+    "synonym": "focus on, stress"
+  },
+  {
+    "word": "enormous",
+    "translate": "adj.庞大的,巨大的",
+    "synonym": "massive, large"
+  },
+  { "word": "imitate", "translate": "v.模仿", "synonym": "mimic, copy" },
+  {
+    "word": "impair",
+    "translate": "v.削弱,减少",
+    "synonym": "damage, diminish, decrease"
+  },
+  {
+    "word": "hinder",
+    "translate": "v.阻碍",
+    "synonym": "impede, prevent, deter, obstacle"
+  },
+  { "word": "legitimate", "translate": "adj.合法的", "synonym": "legal" },
+  { "word": "limitation", "translate": "n.限制", "synonym": "restriction" },
+  {
+    "word": "convention",
+    "translate": "n.手法;习俗",
+    "synonym": "method; tradition"
+  },
+  { "word": "demanding", "translate": "ad.苛求的", "synonym": "troublesome" },
+  { "word": "determine", "translate": "v.决定", "synonym": "decide" },
+  {
+    "word": "accelerate",
+    "translate": "v.加速,促进;强调",
+    "synonym": "speed up"
+  },
+  {
+    "word": "ancient",
+    "translate": "ad.古代的;古老的",
+    "synonym": "aged, old"
+  },
+  {
+    "word": "beneficial",
+    "translate": "adj.有益的",
+    "synonym": "helpful, advantageous, wholesome"
+  },
+  {
+    "word": "chronic",
+    "translate": "adj.慢性的,长期 性的",
+    "synonym": "lasting"
+  },
+  {
+    "word": "conscious",
+    "translate": "ad.有意识的,神 志清醒的",
+    "synonym": "aware, knowing"
+  },
+  {
+    "word": "minimize",
+    "translate": "v.最小化,.... 减少到最少",
+    "synonym": "reduce, lessen"
+  },
+  { "word": "immunity", "translate": "n.免疫力", "synonym": "resistance" },
+  {
+    "word": "imperative",
+    "translate": "adj.必要的,紧急 的",
+    "synonym": "compelling, necessary, urgent"
+  },
+  { "word": "secrete", "translate": "v.分泌", "synonym": "discharge, exude" },
+  { "word": "exaggerate", "translate": "v.夸大,夸张", "synonym": "overstate" },
+  {
+    "word": "transmit",
+    "translate": "v.传达,传输",
+    "synonym": "pass, send ,transfer"
+  },
+  { "word": "extinct", "translate": "v.灭绝", "synonym": "die out, lost" },
+  {
+    "word": "practice",
+    "translate": "n.实行;练习",
+    "synonym": "method, exercise"
+  },
+  {
+    "word": "bacteria",
+    "translate": "n.细菌",
+    "synonym": "virus, germ, microbe"
+  },
+  { "word": "be subject to", "translate": "受...支配", "synonym": "face" },
+  { "word": "be liable to", "translate": "易于...", "synonym": "potential" },
+  {
+    "word": "innate",
+    "translate": "adj.天生的;内在 的,直觉的",
+    "synonym": "built-in, inborn"
+  },
+  { "word": "pattern", "translate": "n.模式", "synonym": "formation" },
+  { "word": "therapy", "translate": "n.治疗,理疗", "synonym": "treatment" },
+  {
+    "word": "original",
+    "translate": "adj.原始的,最初的",
+    "synonym": "initial, first"
+  },
+  {
+    "word": "confidential",
+    "translate": "adj. 机密的,秘密的",
+    "synonym": "undisclosed, secret, hidden"
+  },
+  { "word": "cognitive", "translate": "adj.认知的", "synonym": "mental" },
+  { "word": "comply with", "translate": "照做,遵守", "synonym": "obey" },
+  {
+    "word": "consult",
+    "translate": "v.查阅,商量,请教, 咨询",
+    "synonym": "ask for advice"
+  },
+  {
+    "word": "superior",
+    "translate": "adj.. 上级的;优秀 的",
+    "synonym": "higher, upper"
+  },
+  {
+    "word": "co-operation",
+    "translate": "n.合作,协作",
+    "synonym": "support, work together"
+  },
+  {
+    "word": "co-ordinate",
+    "translate": "wx.使..协谓",
+    "synonym": "organize, harmonize"
+  },
+  {
+    "word": "differ",
+    "translate": "v.使...相异; 使...不同",
+    "synonym": "vary"
+  },
+  { "word": "cue", "translate": "n.线索", "synonym": "hint, clue" },
+  { "word": "signal", "translate": "n.信号", "synonym": "symbol, mark, sign" },
+  {
+    "word": "abandon",
+    "translate": "v.放弃,遗弃",
+    "synonym": "quit, give up, forsake, derelict"
+  },
+  { "word": "halt", "translate": "n.停止", "synonym": "stop, quit" },
+  { "word": "fragile", "translate": "adj.脆弱的", "synonym": "vulnerable" },
+  { "word": "retain", "translate": "v.记住", "synonym": "maintain" },
+  { "word": "vanish", "translate": "n.消失,绝迹", "synonym": "disappear" },
+  { "word": "delivery", "translate": "n.递送", "synonym": "send" },
+  { "word": "erode", "translate": "v.侵蚀", "synonym": "rust, damage" },
+  { "word": "induce", "translate": "v.引起,引诱", "synonym": "cause, lead to" },
+  {
+    "word": "stable",
+    "translate": "adj.稳定的",
+    "synonym": "constant, unchanged"
+  },
+  {
+    "word": "integrate",
+    "translate": "v.使...成整体",
+    "synonym": "combine, whole"
+  },
+  {
+    "word": "equal",
+    "translate": "adj.平等的;相等 的;胜任的",
+    "synonym": "fair, even"
+  },
+  { "word": "grant", "translate": "v.拨款,授予", "synonym": "offer" },
+  {
+    "word": "exclusive",
+    "translate": "ad.独有的;排外 的;专一的",
+    "synonym": "only"
+  },
+  { "word": "guarantee", "translate": "v.保证,担保", "synonym": "assure" },
+  { "word": "inherit", "translate": "v.继承", "synonym": "receive" },
+  {
+    "word": "witness",
+    "translate": "n.见证,证据;目 击者",
+    "synonym": "view, see"
+  },
+  { "word": "magnetic", "translate": "adj.有磁性的", "synonym": "attractive" },
+  {
+    "word": "[ loss",
+    "translate": "n.减少;亏损;失 败;遗失的",
+    "synonym": "waste, gone"
+  },
+  { "word": "option", "translate": "n.选择", "synonym": "choice" },
+  { "word": "prefer to", "translate": "更喜欢", "synonym": "rather" },
+  {
+    "word": "priority",
+    "translate": "n.优先权",
+    "synonym": "preference, preferential"
+  },
+  {
+    "word": "primary",
+    "translate": "adj.主要的",
+    "synonym": "principle, main"
+  },
+  { "word": "principle", "translate": "n.原理", "synonym": "rule" },
+  {
+    "word": "potential",
+    "translate": "n.潜能 adj. 潜在的",
+    "synonym": "possibility"
+  },
+  { "word": "quantity", "translate": "n.量,数量", "synonym": "number" },
+  {
+    "word": "[ settle",
+    "translate": "v.解决;定居,稳定",
+    "synonym": "fix, figure out"
+  },
+  { "word": "sophisticate", "translate": "v.使复杂", "synonym": "complicate" },
+  {
+    "word": "specific",
+    "translate": "adj.明确的;特殊的",
+    "synonym": "detailed, particular"
+  },
+  { "word": "survive", "translate": "v.存活,幸存", "synonym": "remain" },
+  {
+    "word": "swift",
+    "translate": "adj.迅速的,敏捷 的,立刻的",
+    "synonym": "quick, rapid"
+  },
+  {
+    "word": "unexpectedly",
+    "translate": "adv.出乎意料的",
+    "synonym": "surprising"
+  },
+  {
+    "word": "surrounding",
+    "translate": "n.环境",
+    "synonym": "setting, environment"
+  },
+  { "word": "attempt", "translate": "n.试图,尝试", "synonym": "try, test" },
+  {
+    "word": "expertise",
+    "translate": "n.专门技术",
+    "synonym": "knowledge, skill"
+  },
+  {
+    "word": "faculty",
+    "translate": "n.能力,才能;全 体教员",
+    "synonym": "ability"
+  },
+  { "word": "donate", "translate": "v.捐赠", "synonym": "contribute" },
+  {
+    "word": "dynamics",
+    "translate": "n.动力学",
+    "synonym": "energy, force, move"
+  },
+  {
+    "word": "incentive",
+    "translate": "n.刺激,鼓励;动机",
+    "synonym": "motive, stimulus"
+  },
+  { "word": "mortality", "translate": "n.死亡率", "synonym": "death" },
+  {
+    "word": "peripheral",
+    "translate": "ad.外围的,次要 的",
+    "synonym": "unimportant, minor"
+  },
+  {
+    "word": "vicinity",
+    "translate": "n.邻近,附近",
+    "synonym": "neighbourhood, nearby"
+  },
+  {
+    "word": "threaten",
+    "translate": "v.威胁,危及",
+    "synonym": "endanger, jeopardize, risk, hazard"
+  },
+  {
+    "word": "commitment",
+    "translate": "n.承诺,许诺,义 务;致力",
+    "synonym": "engagement"
+  },
+  { "word": "communal", "translate": "adj.公共的,公社的", "synonym": "public" },
+  { "word": "commute", "translate": "v.通勤用.换", "synonym": "travel" },
+  { "word": "compare", "translate": "....相比较", "synonym": "contrast" },
+  { "word": "conceal", "translate": "v.隐藏;隐瞒", "synonym": "hide" },
+  { "word": "concentrate", "translate": "v.专心于;集中", "synonym": "focus" },
+  { "word": "concur", "translate": "v.同意", "synonym": "agree" },
+  { "word": "confer", "translate": "v.授予,给予", "synonym": "grant" },
+  { "word": "conflict", "translate": "n.冲突,矛盾", "synonym": "unharmonious" },
+  { "word": "confuse", "translate": "v使混乱,使迷惑", "synonym": "puzzle" },
+  {
+    "word": "conservative",
+    "translate": "adj.保守的",
+    "synonym": "traditional"
+  },
+  {
+    "word": "considerable",
+    "translate": "adj.相当大的,重要 的",
+    "synonym": "significant"
+  },
+  {
+    "word": "contingent",
+    "translate": "adj.因情况而异的",
+    "synonym": "uncertain"
+  },
+  {
+    "word": "controversial",
+    "translate": "adj.有争论的",
+    "synonym": "disputable"
+  },
+  { "word": "correlation", "translate": "n.相关,关联", "synonym": "link" },
+  { "word": "courtship", "translate": "n.求爱(时期)", "synonym": "mate" },
+  { "word": "crash", "translate": "n.碰撞", "synonym": "collapse" },
+  { "word": "credibility", "translate": "n.可信性", "synonym": "reliance" },
+  { "word": "criminal", "translate": "n.罪犯,犯人", "synonym": "conviction" },
+  { "word": "crisis", "translate": "n.危机", "synonym": "risk" },
+  { "word": "criticism", "translate": "n.评论", "synonym": "condemn" },
+  { "word": "curb", "translate": "v.限制,抑制", "synonym": "restrict" },
+  { "word": "damp", "translate": "adj潮湿的", "synonym": "wet" },
+  { "word": "dazzle", "translate": "v.使目眩;使... 眼花", "synonym": "flash" },
+  { "word": "deadline", "translate": "n.最后期限", "synonym": "limit" },
+  { "word": "delay", "translate": "n.延期,耽搁", "synonym": "postpone" },
+  { "word": "democratic", "translate": "adj.民主的", "synonym": "republic" },
+  {
+    "word": "demographic",
+    "translate": "adj.人口统计学的; 人口学",
+    "synonym": "population statistic"
+  },
+  { "word": "dental", "translate": "adj.牙科的,牙齿的", "synonym": "teeth" },
+  {
+    "word": "depression",
+    "translate": "n.抑郁,沮丧",
+    "synonym": "frustration"
+  },
+  { "word": "designate", "translate": "n指定;指派,标出", "synonym": "appoint" },
+  { "word": "detain", "translate": "v.留住", "synonym": "hold" }
+]
