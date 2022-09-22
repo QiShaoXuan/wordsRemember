@@ -55,7 +55,7 @@ function App() {
       >
         {wordList.map(({ word, translate, synonyms, id }) => {
           return (
-            <SwiperSlide className="swiper-slide" key={id} watchSlidesProgress>
+            <SwiperSlide className="swiper-slide" key={id}>
               <div className="card">
                 <div className="card-content word">{word}</div>
                 <div className="card-content translate">{translate}</div>
