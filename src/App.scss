@@ -1,0 +1,86 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  border: 1px solid #efefef;
+  background-color: #fffffd;
+  background-image: url(paper.png);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+  color: #262626;
+}
+
+.swiper {
+  height: 100%;
+}
+.swiper-slide {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  width: 80vw;
+  padding: 15px 0;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.2);
+}
+
+.card-content {
+  width: 80%;
+  margin: 0 auto;
+  font-size: 18px;
+  padding: 15px;
+  word-break: break-word;
+  &:not(:last-of-type) {
+    border-bottom: 1px solid #ddd;
+  }
+
+  &.word {
+    color: #262626;
+    font-size: 26px;
+  }
+  &.translate {
+    color: #8c8c8c;
+    font-size: 16px;
+  }
+  &.synonyms {
+    color: #434343;
+    font-size: 18px;
+    p {
+      margin-bottom: 5px;
+    }
+  }
+}
+.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+  width: 100vw;
+  height: 40px;
+  button {
+    background: transparent;
+    border: none;
+    padding: 10px;
+    transition: color 0.2s;
+    &.active {
+      color: #1890ff;
+    }
+  }
+}
+
+.progress {
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  width: 100vw;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
